@@ -1,7 +1,6 @@
 ## Olá você, seja bem vindo, me chamo Adrian e aqui estão algumas criações minhas
 <div align="center">
   <a href="https://github.com/deadAdrian">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=deadAdrian&show_icons=true&theme=tokyonight&include_all_commits=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deadAdrian&langs_count=7&layout=compact&theme=tokyonight"/>
 </div>
   
